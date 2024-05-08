@@ -15,7 +15,9 @@ div {text-align: center;}
 <br>
 
 <h3><u>About Me</u></h3>
-Hi! My name is Jack MacCormack. I'm currently studying Information Technology (IT) at James Madison University, and minoring in Computer Science and Creative Writing!
+Hi! My name is Jack MacCormack. I'm currently a junior studying Information Technology (IT) at James Madison University, and minoring in Computer Science and Creative Writing!
+Outside of classes, I spend most of my time volunteering around Harrisonburg, both through my service org. Alpha Phi Omega, and on my own at a local cat cafe/adoption center!
+In fact I have over 50 hours of volunteer work since coming to JMU alone!
 
 </body>
 </html>
