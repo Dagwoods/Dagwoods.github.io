@@ -19,6 +19,9 @@ Hi! My name is Jack MacCormack. I'm currently a junior studying Information Tech
 Outside of classes, I spend most of my time volunteering around Harrisonburg, both through my service org. Alpha Phi Omega, and on my own at a local cat cafe/adoption center!
 In fact I have over 50 hours of volunteer work since coming to JMU alone!
 
+<h3><u>Class Work</u></h3>
+This past semester I have learned all about digital electronics and circuitry, database management, and telecommunications.
+
 <h3><u>Experience</u></h3>
 Recipe Manager App - "KILowBites" - 2023
 
@@ -39,7 +42,7 @@ In 2023, I served as Pledge Class President in order to foster a sense of commun
 Serving as pledge class president gave me great insight on how to effectively manage a diverse team, and grew my leadership skills tremendously.
 
 
-<h3<u>What's Next?</u></h3>
+<h3><u>What's Next?</u></h3>
 This summer, I'll be studying abroad in Italy to obtain more experience of the global world. During the upcoming fall semester, I will be continuing with my IT classes, specifially focusing on cyber security and telecommunications.
 
 </body>
