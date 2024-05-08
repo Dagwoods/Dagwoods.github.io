@@ -21,5 +21,10 @@ In fact I have over 50 hours of volunteer work since coming to JMU alone!
 
 <iframe src="https://github.com/Dagwoods/Dagwoods.github.io/blob/3e4b0bc4d1bb64b3c7dab2d7219a9e02b3bfe4f2/Jack%20MacCormack%20-%20Resume.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
 
+https://username.github.io/folder/document.pdf
+
+<a href="Dagwoods.github.io/Jack MacCormack - Resume.pdf" target="_blank">PDF.</a>
+
+
 </body>
 </html>
