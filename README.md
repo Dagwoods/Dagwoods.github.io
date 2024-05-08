@@ -39,7 +39,7 @@ In 2023, I served as Pledge Class President in order to foster a sense of commun
 Serving as pledge class president gave me great insight on how to effectively manage a diverse team, and grew my leadership skills tremendously.
 
 
-<h3<u>What's Next?<u><h3>
+<h3<u>What's Next?</u></h3>
 This summer, I'll be studying abroad in Italy to obtain more experience of the global world. During the upcoming fall semester, I will be continuing with my IT classes, specifially focusing on cyber security and telecommunications.
 
 </body>
